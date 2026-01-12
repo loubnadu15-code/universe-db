@@ -21,6 +21,7 @@ Technologies:
 Contenu:
 - "worldcup.sql" : structure de la base de données
 - "insert_data.sh" : script Bash d’insertion des données
+- "queries.sh" : script Bash pour exécuter les requêtes SQL
 
 Contexte
 Projet pédagogique axé sur la manipulation de données et l’automatisation avec SQL.
