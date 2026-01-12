@@ -1,0 +1,26 @@
+World Cup Database
+
+Projet réalisé dans le cadre de la certification  
+"FreeCodeCamp – Relational Database".
+
+Description:
+Ce projet consiste à créer et alimenter une base de données stockant les résultats des matchs
+de la Coupe du Monde de football.
+
+Objectifs:
+- Importer des données depuis un fichier CSV
+- Concevoir des tables normalisées
+- Écrire des requêtes SQL d’analyse
+- Automatiser l’insertion des données
+
+Technologies:
+- SQL
+- PostgreSQL
+- Bash
+
+Contenu:
+- "worldcup.sql" : structure de la base de données
+- "insert_data.sh" : script Bash d’insertion des données
+
+Contexte
+Projet pédagogique axé sur la manipulation de données et l’automatisation avec SQL.
