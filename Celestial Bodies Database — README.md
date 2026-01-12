@@ -1,0 +1,24 @@
+Celestial Bodies Database
+
+Projet réalisé dans le cadre de ma certification  
+"FreeCodeCamp – Relational Database".
+
+Description:
+Ce projet consiste à concevoir une base de données relationnelle décrivant des corps célestes
+(planètes, étoiles, galaxies, lunes) et leurs relations.
+
+Objectifs:
+- Concevoir un schéma relationnel cohérent
+- Définir des clés primaires et étrangères
+- Mettre en place des relations entre tables
+- Respecter les contraintes d’intégrité
+
+Technologies:
+- SQL
+- PostgreSQL
+
+Contenu:
+- "universe.sql" : script SQL de création et d’initialisation de la base de données
+
+Contexte:
+Projet pédagogique visant à développer les bases de la modélisation relationnelle.
